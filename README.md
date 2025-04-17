@@ -1,19 +1,20 @@
-# CartographyAssets Documentation
+# 📘 CartographyAssets Documentation
 
-Welcome to the official documentation repository for [CartographyAssets.com](https://cartographyassets.com)!  
-This repo contains technical guides, vendor help articles, plugin setup instructions, and internal references.
+Welcome to the official documentation for [CartographyAssets.com](https://cartographyassets.com)!
 
----
-
-## 📦 Core Plugins
-
-The following plugins form the backbone of our platform:
-
-- [WooCommerce](https://woocommerce.com) — handles the shop and checkout process
-- [Dokan](https://wordpress.org/plugins/dokan-lite/) — vendor marketplace plugin
-- [Dokan Pro](https://wedevs.com/dokan/) — premium vendor tools and frontend capabilities
+This site contains everything you need to know as a vendor or developer working with our platform.
 
 ---
 
-## 📁 Structure
+## 🧭 Contents
 
+### 🛒 Vendor Guides
+- [Getting Started](vendor-guides/getting-started.md)
+- [Uploading Assets](vendor-guides/upload-assets.md)
+
+### ⚙️ Admin Notes
+- [Plugin Settings Overview](admin-notes/plugin-settings.md)
+
+---
+
+Need help? Reach out via our contact form or open an issue in [our GitHub organization](https://github.com/CartographyAssets).
